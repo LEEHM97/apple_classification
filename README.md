@@ -12,16 +12,16 @@
 
     ```bash
     DATA/  
-    |__ train/  # 학습 데이터
-    |     |─xxx.jpg
-    |     |─yyy.jpg
-    |   └─zzz.jpg
-    |__ test/  # 추론 데이터
-    |     |─xxx.jpg
-    |     |─yyy.jpg
-    |   └─zzz.jpg
-    |─ train.csv
-    |__ test.csv 
+    ├── train/  # 학습 데이터
+    │     ├── xxx.jpg
+    │     ├── yyy.jpg
+    │     └── zzz.jpg
+    ├── test/  # 추론 데이터
+    │     ├── xxx.jpg
+    │     ├── yyy.jpg
+    │     └── zzz.jpg
+    ├── train.csv
+    ├── test.csv 
     ```
 
 <br>
