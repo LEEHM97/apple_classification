@@ -15,13 +15,17 @@
     ├── train/  # 학습 데이터
     │     ├── xxx.jpg
     │     ├── yyy.jpg
-    │     └── zzz.jpg
+    │     ├── zzz.jpg
+    │     └── ...
+    │ 
     ├── test/  # 추론 데이터
     │     ├── xxx.jpg
     │     ├── yyy.jpg
-    │     └── zzz.jpg
+    │     ├── zzz.jpg
+    │     └── ...
+    │
     ├── train.csv
-    ├── test.csv 
+    └── test.csv 
     ```
 
 <br>
@@ -29,6 +33,7 @@
 ## 2. Evalutation Metric
 
 - F1 Score: 정밀도와 재현율의 조화 평균 <br>
+![image](https://user-images.githubusercontent.com/67961082/208139536-d73cd7a9-4bfc-4546-afac-701bedf93897.png)
 
 <br>
 
